@@ -1,4 +1,6 @@
-# This was done using Sonnet 4.6
+#Daily X Digest, 100% Vibes
+
+*This was done using Sonnet 4.6*
 
 Use the daily-digest_instructions.md with Claude Code. You will need to replace your user handle where required.
 
