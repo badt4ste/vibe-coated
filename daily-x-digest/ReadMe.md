@@ -1,4 +1,4 @@
-#Daily X Digest, 100% Vibes
+# Daily X Digest, 100% Vibes
 
 *This was done using Sonnet 4.6*
 
